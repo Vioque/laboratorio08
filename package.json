@@ -1,0 +1,12 @@
+{
+  "name": "laboratorio08",
+  "version": "1.0.0",
+  "description": "Práctica de Laboratorio del Módulo 8 JavaScript LemonCode",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html --open"
+  },
+  "keywords": [],
+  "author": "Jorge Vioque",
+  "license": "ISC"
+}
